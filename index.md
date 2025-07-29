@@ -1,8 +1,9 @@
 ---
-layout: default
+layout: page
 title: Home
+menu: true
+order: 1
 ---
+# Welcome to My Site
 
-# Welcome to My Website
-
-This page should look like Hydejack documentation with correct theme and fonts.
+Your introductory content here.
